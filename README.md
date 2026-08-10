@@ -46,8 +46,6 @@
 
 <p align="center"><img alt="YDP147H009-V2" src="./images/YDP147H009-V2.png" width="320" /></p>
 
-**说明：** 模组。
-
 ---
 
 ## 如何切换分支

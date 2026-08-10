@@ -46,8 +46,6 @@ Repo id: `1.47-tft-172x320-spi-gc9307`
 
 <p align="center"><img alt="YDP147H009-V2" src="./images/YDP147H009-V2.png" width="320" /></p>
 
-**Notes:** Module.
-
 ---
 
 ## How to Switch Branches
